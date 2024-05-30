@@ -2,7 +2,7 @@ Este projeto foi criado a partir do curso da Alura - React: Desenvolvendo com Ja
 
 Aplicação web com cadastro de funcionários e criação dinâmica de cards de funcionários utilizando react js.
 
-Deseja testar? Clique aqui: https://organo-dota2.vercel.app/
+! [Deseja testar? Clique aqui:] https://organo-dota2.vercel.app/
 
 Detalhes do projeto
 O Organo é um projeto de estudo de React, onde o usuário pode criar times e equipes, e adicionar membros a elas, com o objetivo de organizar melhor o trabalho em equipe.
